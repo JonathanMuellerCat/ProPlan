@@ -150,6 +150,15 @@ Si possono creare anche delle bozze di progetti, ovvero non dei veri e propri pr
   |Req-14|Il database permette di riaprire i vecchi progetti|1|1.0|...|
   |Req-15|Creazione sito web con tutorial programma|2|1.0|...|
   |Req-16|Download dell'applicativo tramite sito web|2|1.0|...|
+  
+  
+  |**ID**            |Req-1                                                                          |
+  |------------------|-------------------------------------------------------------------------------|
+  |**Nome**          | Realizzare un programma per la gestione dei progetti                          |
+  |**Priorità**      | 1                                                                             |
+  |**Versione**      | 1.0                                                                           |
+  |**Note**          |                                                                               |
+
 
 
 **Spiegazione elementi tabella dei requisiti:**
